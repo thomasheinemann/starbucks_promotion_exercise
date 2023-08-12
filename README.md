@@ -5,6 +5,7 @@ This project is a recommendation exercise provided by Starbucks.
 The goal is to investigate customers receptiveness towards promotion for a product.
 The setup is very simplified. There is no time dependency and only one product considered.
 It covers training and test data of customers with their specifics and the information whether a promotion was sent and the product bought afterwards.
+A full description of the problem setting is provided in the main jupyter file.
 
 ### Motivation
 This project covers a simple real life problem of shops, restaurants, or cafés in how to advertise he right customers that are willing to pay for offered products.
@@ -32,10 +33,11 @@ From their specifics one can learn improve intuition in the marketing campaigns.
 
 ### Files in the repository
 ```
-Starbucks.ipynb                        # main jupyter file
+.gitignore
 README.md
 requirements.txt                       # list of required packages
 requirements_working_configuration.txt # list of packages covering a working configuration
+Starbucks.ipynb                        # main jupyter file
 Test.csv                               # test data
 test_results.py                        # python file for testing the promotion strategy - it is referred in the main jupyter file
 training.csv                           # training data
