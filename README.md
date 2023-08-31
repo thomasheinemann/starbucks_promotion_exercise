@@ -8,8 +8,8 @@ It covers training and test data of customers with their specifics and the infor
 A full description of the problem setting is provided in the main jupyter file.
 
 ### Motivation
-This project covers a simple real life problem of shops, restaurants, or cafés in how to advertise he right customers that are willing to pay for offered products.
-From their specifics one can learn improve intuition in the marketing campaigns.
+This project covers a simple real life problem of shops, restaurants, or cafés in how to advertise the right customers that are willing to pay for offered products.
+From their specifics one can learn how to improve the intuition in marketing campaigns.
 
 ### Data sources: 
 
@@ -40,5 +40,6 @@ requirements_working_configuration.txt # list of packages covering a working con
 Starbucks.ipynb                        # main jupyter file
 Test.csv                               # test data
 test_results.py                        # python file for testing the promotion strategy - it is referred in the main jupyter file
-training.csv                           # training data
+training.csv                           # training 
+venn_diagram.png                           # picture
 ```
